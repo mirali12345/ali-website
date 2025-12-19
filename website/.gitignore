@@ -1,0 +1,16 @@
+# Node / build artifacts
+node_modules/
+.DS_Store
+
+# Python
+__pycache__/
+
+# VS Code
+.vscode/
+
+# OS files
+Thumbs.db
+desktop.ini
+
+# Local env
+.env
